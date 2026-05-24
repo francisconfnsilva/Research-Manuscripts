@@ -10,13 +10,13 @@ This repository contains selected manuscripts, theses, and poster presentations 
 * **Type:** Master's Thesis (Ongoing)
 * **Institution:** Mathematics of Behavior and Intelligence Lab (Champalimaud Foundation) in collaboration with the Cajal Institute
 * **Summary:** Investigates spatial navigation under uncertainty as a Partially Observable Markov Decision Process (POMDP) to tackle state aliasing and sensory noise. Details the engineering of deep reinforcement learning agents in PyTorch, utilizing recurrent and attention-based architectures to act as finite-state controllers, while decoding *in vivo* calcium recordings from the hippocampal CA1 region to compare biological mechanisms with artificial latent states.
-* **Link:** [Read the Manuscript](LINK_TO_PDF_HERE)
+* **Link:** [Read the Manuscript](https://github.com/francisconfnsilva/Research-Manuscripts/blob/main/P2.pdf)
 
 ### 2. Psychophysiological Effects of Guided Imagery Intervention on the Academic Development of Children: An Open-Source HRV Toolbox
 * **Type:** Bachelor's Thesis (2023)
 * **Institution:** Telecommunications Institute
 * **Summary:** Details the development of an open-source HRV toolbox and an end-to-end Python biosignal processing pipeline mimicking commercial software. 
-* **Link:** [Read the Thesis](LINK_TO_PDF_HERE)
+* **Link:** [Read the Thesis](https://github.com/francisconfnsilva/Research-Manuscripts/blob/main/P4.pdf)
 
 ## Coursework Manuscripts & Presentations
 
@@ -24,13 +24,13 @@ This repository contains selected manuscripts, theses, and poster presentations 
 * **Type:** Selected Coursework Manuscript
 * **Institution:** Chalmers University of Technology
 * **Summary:** Details the development of a deep convolutional neural network for bone marrow cytology classification. Implements a robust Out-of-Distribution (OOD) detection framework using Mahalanobis distance and Kernel Density Estimation to improve diagnostic reliability.
-* **Link:** [Read the Manuscript](LINK_TO_PDF_HERE)
+* **Link:** [Read the Manuscript](https://github.com/francisconfnsilva/Research-Manuscripts/blob/main/P1.pdf)
 
 ### 4. Biomolecular Condensates & Liquid-Liquid Phase Separation
 * **Type:** Poster Presentation
 * **Institution:** Chalmers University of Technology
 * **Summary:** Investigates statistical physics models of liquid-liquid phase separation. Integrates entropic mixing and Cahn-Hilliard gradient penalties to map complex phase diagrams.
-* **Link:** [View the Poster](LINK_TO_PDF_HERE)
+* **Link:** [View the Poster](https://github.com/francisconfnsilva/Research-Manuscripts/blob/main/P3.pdf)
 
 ---
 **Contact:** [francisconsilva04@gmail.com](mailto:francisconsilva04@gmail.com) | [LinkedIn](https://www.linkedin.com/in/francisco-silva-bme/)
